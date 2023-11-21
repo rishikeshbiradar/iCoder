@@ -1,6 +1,6 @@
 # iCoder
 
-iCode is a simple yet elegant blog website designed for coders and tech enthusiasts. Crafted with HTML, CSS, JavaScript, and enhanced with Bootstrap, this website provides a platform to share coding experiences, tips, and insights. Whether you're a seasoned developer or just starting your coding journey, iCode is the perfect place to connect, learn, and inspire.
+iCoder is a simple yet elegant blog website designed for coders and tech enthusiasts. Crafted with HTML, CSS, JavaScript, and enhanced with Bootstrap, this website provides a platform to share coding experiences, tips, and insights. Whether you're a seasoned developer or just starting your coding journey, iCode is the perfect place to connect, learn, and inspire.
 
 Features
 1)Responsive Design: The website is built with a responsive design, ensuring an optimal viewing experience across a variety of devices, from desktops to smartphones.
